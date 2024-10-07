@@ -1,10 +1,13 @@
 # Family secret rercipes
 
-Set of recipes as given by my grandma.
+# base
 
-* pizzas (TODO)
-* sauces (TODO)
-* spreads (TODO)
-* dumplings (TODO)
-* Watermelon (TODO)
-* THis is a useful information
+## Ingredients
+- 4 cup of flour
+- dry yeast
+- teaspoon of salt
+- 2 cups water
+
+## Steps
+- mix everything and
+- go for it
