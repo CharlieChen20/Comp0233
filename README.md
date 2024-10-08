@@ -14,5 +14,4 @@
 # Perez's clan secret recipes
 - 4 cup of milk,
 why cannot i see it?
-<<<<<<< HEAD
-I will make some changes to this strange f
+
