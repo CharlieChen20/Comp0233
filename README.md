@@ -10,7 +10,7 @@
 # in case of confliction
 - will that help to get the remote changes?
 - if I type here, there might be a confliction.
-
+- I will try to solve it.
 ## Steps
 - mix everything and
 - go for it
