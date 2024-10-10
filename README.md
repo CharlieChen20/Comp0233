@@ -7,6 +7,9 @@
 - dry yeast
 - teaspoon of salt
 - 2 cups water
+# in case of confliction
+- will that help to get the remote changes?
+
 
 ## Steps
 - mix everything and
