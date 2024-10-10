@@ -9,7 +9,9 @@
 - 2 cups water
 # in case of confliction
 - will that help to get the remote changes?
+- now I type here. Let's see what will happen.
 - if I type here, there might be a confliction.
+- we already find a confliction. I will do that again. see if mac can solve it.
 - I will try to solve it.
 ## Steps
 - mix everything and
