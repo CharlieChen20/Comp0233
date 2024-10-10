@@ -9,7 +9,7 @@
 - 2 cups water
 # in case of confliction
 - will that help to get the remote changes?
-
+- if I type here, there might be a confliction.
 
 ## Steps
 - mix everything and
