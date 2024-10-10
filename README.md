@@ -12,6 +12,7 @@
 - now I type here. Let's see what will happen.
 - if I type here, there might be a confliction.
 - we already find a confliction. I will do that again. see if mac can solve it.
+- I will try to solve it.
 ## Steps
 - mix everything and
 - go for it
